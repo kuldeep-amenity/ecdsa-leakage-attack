@@ -1,0 +1,12 @@
+ecdsa
+fpylll
+sympy
+decimalpy
+argparse
+numpy
+scipy
+matplotlib
+pycryptodome
+cryptography
+tqdm
+pandas

@@ -1,0 +1,22 @@
+# Virtual environments
+ecdsa-leakage-attack-env/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+*.iml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
